@@ -22,4 +22,4 @@ Dans cette étape, le serveur reçoit les données envoyées par l’ESP32 et le
 
 Étape 5 – Affichage des données sur une page web
 
-Dans cette dernière étape, nous avons créé une page web qui affiche les données envoyées par l’ESP32. Le fichier index.php lit la dernière valeur enregistrée dans valeur.txt. La page se met automatiquement à jour toutes les deux secondes pour afficher les nouvelles données. Cela permet de visualiser les informations de l’ESP32 en temps réel depuis un navigateur web.
+Dans cette dernière étape, nous avons créé une page web qui affiche les données envoyées par l’ESP32. Le fichier index.php lit la dernière valeur enregistrée dans valeur.txt. La page se met automatiquement à jour toutes les trois secondes pour afficher les nouvelles données. Cela permet de visualiser les informations de l’ESP32 en temps réel depuis un navigateur web.
